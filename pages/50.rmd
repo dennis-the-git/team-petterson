@@ -26,3 +26,4 @@
     ??: Eivor & Henkas datum, tillägg
 
     testar pull request med git/github
+    testar på nytt med lokal commit
