@@ -1,0 +1,3 @@
+\SwitchToPageBG
+\renewcommand\partcontent{STORMÅNS - MANSFOLK}
+# (PART) STORMÅNS - MANSFOLK, HERMANS {-}

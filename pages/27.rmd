@@ -1,0 +1,3 @@
+\clearpage
+\renewcommand\partcontent{PETTERSON}
+# (PART) SLÄKTEN PETTERSON {-}

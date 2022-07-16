@@ -1,0 +1,21 @@
+---
+documentclass: book
+classoption: openany
+fontsize: 12pt
+geometry: "left=1.3in, right=1.3in, top=1.3in, bottom=1.3in"
+linestretch: 1.2
+papersize: a4
+title:  |
+  | Familjen Pettersons
+  | släktutredning
+
+output:
+  bookdown::pdf_book:
+    toc: no
+    latex_engine: xelatex
+    keep_tex: true
+    number_sections: false
+    pandoc_args: --top-level-division=chapter
+    includes:
+        in_header: "style/preamble.tex"
+---

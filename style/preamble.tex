@@ -1,0 +1,27 @@
+\newcommand\partcontent{}
+
+\usepackage[document]{ragged2e}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[L]{}
+\fancyhead[R]{}
+\fancyhead[C]{\partcontent}
+\fancypagestyle{plain}{\pagestyle{fancy}}
+\raggedright
+
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\usepackage{enumitem}
+\setlist[enumerate]{align=parleft,left=-5em..0pt}
+
+\setmainfont[ExternalLocation=style/]{Erika-Ormig.ttf}
+
+\usepackage{eso-pic}
+\AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{style/title}}
+\newcommand\SwitchToPageBG{\AddToShipoutPictureBG{\includegraphics[width=\paperwidth,height=\paperheight]{style/page}}}
+
+\usepackage[ocgcolorlinks]{hyperref}
+\hypersetup{ linkcolor={blue!50!black} }
