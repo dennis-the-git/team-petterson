@@ -1,0 +1,19 @@
+\newpage
+\renewcommand\partcontent{PETTERSON 1816 - ?}
+
+\hypertarget{13}{}
+
+\
+
+13. [Johan Högdahl](#1), född 8/5 1816, död ?  
+    Gift med ?
+
+#### Barn:
+
+131. Mats
+
+132. Fredrik
+
+133. Maria
+
+134. (Lovisa) Lisa
