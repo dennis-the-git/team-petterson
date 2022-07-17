@@ -1,4 +1,5 @@
 \newpage
+\renewcommand\partcontent{PETTERSON 1887-??}
 
 \hypertarget{1425}{}
 

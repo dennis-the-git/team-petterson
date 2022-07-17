@@ -1,4 +1,5 @@
 \newpage
+\renewcommand\partcontent{PETTERSON 1920-}
 
 \hypertarget{14252}{}
 
