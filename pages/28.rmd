@@ -1,4 +1,5 @@
 \newpage
+\renewcommand\partcontent{PETTERSON 1784-1862}
 
 \hypertarget{0}{}
 
