@@ -1,0 +1,29 @@
+\newpage
+\renewcommand\partcontent{HERMANS ca.1819-1904}
+
+\hypertarget{h1}{}
+
+\
+
+    ??: ställvis svårt att tyda kommentarerna
+    ??: på första sonens sida är Lovisa överstruket
+    ??: på Hannas sida står det "Osäkert" någonting...
+
+#### Ett af [tiggargossens](#h0) barn hade fyra barn:
+
+11. [En son](#h11).  
+  Gift med Maria Lovisa Stormåns (Manfolk),  
+  född 10/3 1819.  
+  Hon lefde ännu 1896, troligen ännu 1904.
+
+12. En son.
+
+13. [Maria Lovisa](#h13) (Tages farmors mor),  
+  född ?, död 19/12 1890.  
+  Gift med Hindrick Hermans,  
+  född ?, död 18/12 1893.
+
+14. [En dotter Hanna](#h14) (?),  
+  lefde ännu 1895.  
+  Gift med baptisten Anders Niss(folk).  
+  (sjuk 1904, besökte Åbo på 1880-talet)
