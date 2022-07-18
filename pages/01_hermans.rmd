@@ -1,3 +1,4 @@
 \SwitchToPageBG
+\setcounter{page}{1}
 \renewcommand\partcontent{STORMÅNS - MANSFOLK}
 # (PART) STORMÅNS - MANSFOLK, HERMANS {-}
