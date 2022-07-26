@@ -1,14 +1,16 @@
 ## Familjen Pettersons släktforskning
 
+(senaste läsbara version hittar du i pdf-format under [Releases](https://github.com/dennis-the-git/team-petterson/releases/))
+
 Filerna i underkatalogen `pages` innehåller text från de skannade bilderna av originalhäftet. Rådatat för de flesta filer har erhållits via ett sk "OCR"-program som kan översätta bildinfo till textdata (`ASCII`- koder). De flesta av bilderna är dock så svårtolkade att det mesta måste korrigeras för hand. Då texten även behöver anpassas en smula med tanke på grundformatet till pdf-bygget går det i slutändan nästan lika snabbt att renskriva direkt från originalet. Varje textfil i `pages` motsvarar en sida i originalet och är namngiven enligt sidnummer och innehåll, tex: `50_14252.rmd` (sida 50 & Tages 'släktnummer' 14252).
 
 ### Hur kan jag bidra med information
 
-Den som har ett github-konto och editeringsrättigheter kan själv modifiera filerna. Man går då in i katalogen `pages`, väljer filen man vill redigera och klickar sedan på pennan till höger för att komma till editeringsläge. Det går också att skapa helt nya filer via gränssnittet. Att bara fylla i datum och korrigera namn och skrivfel torde inte skapa så mycket huvudbry. Alla sidor följer dessutom samma mönster så det är lätt att lära sig helhetsformatet genom att ta modell efter den text som redan finns.
+Den som skaffar ett github-konto får editeringsrättigheter av mig och kan då själv modifiera filerna. Man går in i katalogen `pages`, väljer filen man vill redigera och klickar sedan på pennan till höger för att komma till editeringsläge. Det går också att skapa helt nya filer via gränssnittet. Att bara fylla i datum och korrigera namn och skrivfel torde inte skapa så mycket huvudbry. Alla sidor följer dessutom samma mönster så det är lätt att lära sig helhetsformatet genom att ta modell efter den text som redan finns.
 
 ### Hur sparar jag mina ändringar
 
-Projektets filer hanteras av ett proffsigt versionshanteringssystem och för att göra sina ändringar permanenta och synliga för andra behöver man registrera editeringshändelsen då man är färdig. Detta sker genom att man skrollar till slutet av sidan, skriver in en pyttekort kommentar om vad man tillfört på raden under rubriken "Commit changes", verifierar att "Commit directly to develop branch" är valt och till slut trycker på den gröna "Commit..."-knappen. Glömmer man att spara filen genom att göra en "commit" går all den nya text man skrivit förlorad då man stänger webbläsaren eller går bort från editeringssidan. Filen återgår då till hur den såg ut innan man började redigera den, "Cancel changes" har samma effekt.
+Projektets filer hanteras av ett proffsigt versionshanteringssystem och för att göra sina ändringar permanenta och synliga för andra behöver man registrera editeringshändelsen då man är färdig: skrolla till slutet av sidan, skriv en pyttekort kommentar om vad som tillförts på raden under rubriken "Commit changes", verifiera att "Commit directly to develop branch" är valt och tryck till slut på den gröna "Commit..."-knappen. Glömmer man att spara filen genom att göra en "commit" går den nya text man skrivit förlorad då man stänger webbläsaren eller går bort från editeringssidan. Filen återgår då till hur den såg ut innan man började redigera den, "Cancel changes" har samma effekt.
 
 ### Hur kan jag hjälpa till på andra sätt
 
